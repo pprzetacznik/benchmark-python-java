@@ -1,0 +1,9 @@
+*.jar
+*.class
+target
+*.zip
+
+*.tfstate
+*.backup
+*.hcl
+.terraform
